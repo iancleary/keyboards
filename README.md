@@ -5,6 +5,10 @@
 
 https://keeb.io/products/iris-essential-model-2-keyboard
 
+## keymap
+
+![picture of printed keymap from config.qmk.fm website](./keymap.png)
+
 ## firmware
 
 setup qmk (once per machine or to get latest qmk software)
@@ -44,7 +48,7 @@ Your GitHub Username?  [iancleary]
 
 this uses the file /home/icleary/qmk_firmware/keyboards/keebio/iris/keymaps/iancleary/keymap.json as the source file
 
-### Enter bootloader mode on keyboard to flash/load uf2 file onto keyboard 
+### Enter bootloader mode on keyboard to flash/load uf2 file onto keyboard
 
 <https://docs.keeb.io/flashing-firmware#rp2040-board-uf2-bootloader>
 
