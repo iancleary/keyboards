@@ -25,9 +25,10 @@ download json file to disk
 
 Setup enables us to compile json to uf2 files used for flashing
 
-
+nix-shell -p qmk
 
 ❯ qmk setup
+
 ❯ qmk new-keymap -kb keebio/iris/rev8                                                                                                                                                    ─╯
 Ψ Generating a new keymap
 
@@ -38,6 +39,7 @@ Used for maintainer, copyright, etc
 Your GitHub Username?  [iancleary]
 Ψ Created a new keymap called iancleary in: /home/icleary/qmk_firmware/keyboards/keebio/iris/keymaps/iancleary.
 Ψ Compile a firmware with your new keymap by typing: qmk compile -kb keebio/iris/rev8 -km iancleary.                                                                                                                                                    ─╯
+
 ❯ qmk compile -kb keebio/iris/rev8 -km iancleary
 
 this uses the file /home/icleary/qmk_firmware/keyboards/keebio/iris/keymaps/iancleary/keymap.json as the source file
