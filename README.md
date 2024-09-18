@@ -7,7 +7,7 @@ https://keeb.io/products/iris-essential-model-2-keyboard
 
 ## keymap
 
-[picture of printed keymap from config.qmk.fm website](./keymap.png)
+![picture of printed keymap from config.qmk.fm website](./keymap.png)
 
 ## firmware
 
