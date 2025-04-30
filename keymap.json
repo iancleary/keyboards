@@ -3,7 +3,7 @@
   "notes": "My awesome keymap",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "keebio/iris/rev8",
-  "keymap": "keebio_iris_rev8_keebio_iris_rev8_keebio_iris_rev8_keebio_iris_rev8_2025-01-17e",
+  "keymap": "keebio_iris_rev8_2025-04-29a",
   "layout": "LAYOUT",
   "layers": [
     [
@@ -89,7 +89,7 @@
       "KC_HOME",
       "KC_END",
       "KC_AMPR",
-      "KC_TRNS",
+      "KC_CAPS",
       "KC_NO",
       "KC_HASH",
       "KC_GRV",
