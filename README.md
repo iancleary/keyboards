@@ -6,7 +6,6 @@
 
 ### keymap
 
-![picture of printed keymap from config.qmk.fm website](./keymap.png)
-
+![picture of printed keymap from config.qmk.fm website](./keebio-iris-rev8/keymap.png)
 
 ## [zsa-moonlander](zsa-moonlander)
