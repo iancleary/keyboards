@@ -21,4 +21,4 @@ Comes in two colors, I got black with blank keycaps
 
 <https://configure.zsa.io/moonlander/layouts/default/latest/0>
 
-![](./zsa-moonlander/2025-09-05a/2025-09-05a.png)
+![](./zsa-moonlander/2025-09-13/2025-09-13.png)
